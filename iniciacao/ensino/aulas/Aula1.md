@@ -96,17 +96,7 @@ Observação do interesse e familiaridade com os materiais
   1. A bola deve quicar primeiro no próprio lado da mesa (como no saque)
   2. Depois de quicar, ela deve passar por cima do local onde seria a rede
   3. Ao cair do outro lado, a bola deve acertar/derrubar o alvo
-  4. Cada aluno tem **3 tentativas** por rodada
-  5. O grupo marca 1 ponto por alvo derrubado/acertado
-
-- **Variação da competição:** Ganha o grupo que **precisar do menor número total de tentativas** para derrubar todos os seus alvos (ou um número definido, ex: 5 alvos).
-
-**Exemplo de pontuação:**
-| Grupo | Tentativas usadas | Colocação |
-|-------|-------------------|------------|
-| A | 8 tentativas | 🥇 1º lugar |
-| B | 12 tentativas | 🥈 2º lugar |
-| C | 15 tentativas | 🥉 3º lugar |
+  4. Aluno tenta até acertar
 
 ---
 
