@@ -1,1 +1,3 @@
-para a iniciação a gente pode fazer treinos de saque, defesa, o toque aberto e fechado e ataque e depois 1x1 com a gente (você até eu achar que tenho noção) corrigindo
+- saque simples
+- defesa de saque simples
+- recepção aberta e fechada de saque com efeitos laterais
