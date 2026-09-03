@@ -42,7 +42,3 @@ Joao de Deus
 
 ---
 
-## Dúvidas?
-
-Fale com o professor responsável.
-
